@@ -1,0 +1,16 @@
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\bin\Debug\jokenpo.exe.config
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\bin\Debug\jokenpo.exe
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\bin\Debug\jokenpo.pdb
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\obj\Debug\jokenpo.csprojResolveAssemblyReference.cache
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\obj\Debug\jokenpo.MainForm.resources
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\obj\Debug\jokenpo.csproj.GenerateResource.Cache
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\obj\Debug\jokenpo.exe
+C:\Users\Fab\Documents\SharpDevelop Projects\jokenpo\jokenpo\obj\Debug\jokenpo.pdb
+U:\Projetos Aleatórios\jokenpo\jokenpo\bin\Debug\jokenpo.exe.config
+U:\Projetos Aleatórios\jokenpo\jokenpo\bin\Debug\jokenpo.exe
+U:\Projetos Aleatórios\jokenpo\jokenpo\bin\Debug\jokenpo.pdb
+U:\Projetos Aleatórios\jokenpo\jokenpo\obj\Debug\jokenpo.csprojResolveAssemblyReference.cache
+U:\Projetos Aleatórios\jokenpo\jokenpo\obj\Debug\jokenpo.MainForm.resources
+U:\Projetos Aleatórios\jokenpo\jokenpo\obj\Debug\jokenpo.csproj.GenerateResource.Cache
+U:\Projetos Aleatórios\jokenpo\jokenpo\obj\Debug\jokenpo.exe
+U:\Projetos Aleatórios\jokenpo\jokenpo\obj\Debug\jokenpo.pdb
