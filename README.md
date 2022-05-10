@@ -14,7 +14,7 @@ Valor | Objeto
 Após o programa sortear aleatóriamente o número, há 3 possíveis resultados:
 1. Se o programa escolher o mesmo objeto que o usuário, será retornado um empate;
 2. Se o programa escolher um objeto que perde do objeto que o usuário escolher, será retornado uma vitória ao usuário;
-3. Se o programa escolher um objeto que vence do objeto que o usuário escolher, será retornado uma vitória ao progrmaa.
+3. Se o programa escolher um objeto que vence do objeto que o usuário escolher, será retornado uma vitória ao programa.
 
 A cada vitória do programa, do usuário ou um empate que ocorrer, será contabilizado na legenda mostrada na tela. Após o resultado ser mostrado, você deve clicar em Reiniciar para tentar novamente.
 
